@@ -1,2 +1,13 @@
 # Ornate
 For My Backdrop Build Project- This is a Jazz Trivia Agent
+
+- ORNATE HAS LAUNCHED ON BACKDROP BUILD!
+- ORNATE IS A CONVERSATIONAL CHATBOT AGENT THAT USES DIALOGFLOW/ NATURAL LANGUAGE PROCESSING
+- HERE'S THE LINK--->
+- 1. TRY IT OUT
+  2. SEND TRIVIA AND LINKS AND INACCURACIES TO LPETERSON2@EC.RR.COM AS ORNATE IS IN TRAINING!
+     
+
+https://backdropbuild.com/builds/v5/ornate
+
+7/17/24: update:Eric Dolphy and Andrew Hill added to agent!
